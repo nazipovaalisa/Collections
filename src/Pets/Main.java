@@ -1,6 +1,5 @@
-package com.company;
+package Pets;
 
-import java.io.OutputStream;
 import java.util.*;
 
 public class Main {

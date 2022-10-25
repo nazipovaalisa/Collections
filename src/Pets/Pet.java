@@ -1,4 +1,4 @@
-package com.company;
+package Pets;
 
 public class Pet {
 
